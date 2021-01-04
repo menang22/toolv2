@@ -276,3 +276,4 @@ echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
 echo $pur"SUBSCRIBE MY CHANNEL { YOUTUBE winner }"
 exit
+fi
